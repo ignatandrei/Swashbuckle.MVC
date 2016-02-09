@@ -30,7 +30,7 @@
     <Content Include="SwashbucckleMVCController.cs">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Swashbuckle.MVC.pp">
+    <Content Include="Swashbuckle.MVC.cs.pp">
       <SubType>Content</SubType>
     </Content>
   </ItemGroup>

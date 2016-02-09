@@ -2,7 +2,7 @@ using System.Web.Http;
 using WebActivatorEx;
 using $rootnamespace$;
 using Swashbuckle.MVC.Handler;
-using Microsoft.Web.Infrastructure;
+using Microsoft.Web.Infrastructure.DynamicModuleHelper;
 [assembly: PreApplicationStartMethod(typeof(SwaggerMVCConfig), "Register")]
 namespace $rootnamespace$
 {
